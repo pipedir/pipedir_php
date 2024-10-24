@@ -1,0 +1,9 @@
+<?php
+
+   /* =, -, *, % */ 
+
+    // ++ += incremento
+    // -- -= drecemento
+
+
+?>
